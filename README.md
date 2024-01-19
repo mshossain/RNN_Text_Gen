@@ -8,7 +8,7 @@ This is the notebook file to create and save Reuters documents in the data folde
 
 ### RNN_SLM.ipynb:
 
-This file contains the recurrent neural network.
+This file contains the recurrent neural network and the functions to generate text.
 
 **Remarks:**
 Make sure to install Pytorch on your computer. Having an Nvidia GPU will help. I am assuming that all the packages are in place.
