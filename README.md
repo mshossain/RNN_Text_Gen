@@ -17,13 +17,16 @@ In the videos, I used Jupyter Notebook.
 
 Here are three three videos that explains the code and the theory:
 
-Part 1: Theory of RNN: An Easy Tutorial
+**Part 1: Theory of RNN: An Easy Tutorial**
+
 https://youtu.be/jPPWc0y-08Q
 
-Part 2: Coding RNN.
+**Part 2: Coding RNN**
+
 https://youtu.be/qQkpLVxRIyg
 
-Part 3: Coding RNN and Text Generation
+**Part 3: Coding RNN and Text Generation**
+
 https://youtu.be/-vhptxOAILY
 
 
