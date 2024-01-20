@@ -27,3 +27,9 @@ This file contains the recurrent neural network and the functions to generate te
 
 **Remarks:**
 Make sure to install Pytorch on your computer. Having an Nvidia GPU will help. I am assuming that all the packages are in place.
+
+**Author:** Dr. Shahriar Hossain <br>
+**My YT Channel:** https://www.youtube.com/@C4A <br>
+**Web:** https://computing4all.com/ <br>
+**License:** Copyright 2024 Dr. Shahriar Hossain <br>
+Releasing under the MIT license: https://opensource.org/license/mit/ <br>
